@@ -1,2 +1,2 @@
-# Apna-page1234
+# My GitHub shine.
 This is my first repository.
